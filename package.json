@@ -1,0 +1,23 @@
+{
+  "name": "animation-javascript",
+  "version": "1.0.0",
+  "description": "animation javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liutaochange/animation-javascript.git"
+  },
+  "keywords": [
+    "animation",
+    "javascript"
+  ],
+  "author": "liutaochange@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liutaochange/animation-javascript/issues"
+  },
+  "homepage": "https://github.com/liutaochange/animation-javascript#readme"
+}
